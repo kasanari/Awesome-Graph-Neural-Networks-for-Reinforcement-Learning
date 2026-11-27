@@ -3,11 +3,13 @@
 ...and other forms of relational decision learning.
 
 <picture>
-  <img 
-    alt="Green Solaris grapes (Vitis vinifera) and leaves growing in Chateaux Luna vineyard, Lysekil, Sweden."
+  <img
     src="https://upload.wikimedia.org/wikipedia/commons/2/22/Solaris_grapes_in_Chateaux_Luna_vineyard_24.jpg"
-    style="width: 100%; height: 200px; object-fit: cover;"
-/>
+    alt="Green Solaris grapes and leaves growing in Chateaux Luna vineyard, Lysekil, Sweden"
+    width="100%"
+    height="200"
+    style="object-fit: cover;"
+  >
 </picture>
 
 ## Intro
