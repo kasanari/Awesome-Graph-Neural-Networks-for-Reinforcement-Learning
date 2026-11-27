@@ -4,7 +4,7 @@
 
 <picture>
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/2/22/Solaris_grapes_in_Chateaux_Luna_vineyard_24.jpg"
+    src="Solaris_grapes_in_Chateaux_Luna_vineyard_24.jpg"
     alt="Green Solaris grapes and leaves growing in Chateaux Luna vineyard, Lysekil, Sweden"
     width="100%"
     height="200"
