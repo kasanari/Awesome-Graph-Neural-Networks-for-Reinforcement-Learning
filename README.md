@@ -8,7 +8,6 @@
     alt="Green Solaris grapes and leaves growing in Chateaux Luna vineyard, Lysekil, Sweden"
     width="100%"
     height="200"
-    style="object-fit: cover;"
   >
 </picture>
 
