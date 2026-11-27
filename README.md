@@ -1,6 +1,6 @@
 # Awesome Graph Neural Networks for Reinforcement Learning
 
-...and other forms of relational learning.
+...and other forms of relational decision learning.
 
 ## Intro
 
